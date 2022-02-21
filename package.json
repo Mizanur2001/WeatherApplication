@@ -9,6 +9,7 @@
   "author": "James Lev",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.0",
     "requests": "^0.3.0"
   }
 }
